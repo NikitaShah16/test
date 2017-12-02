@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-int x=10;
+int x=50;
 int y=20;
-int z=x+y;
+int z=x-y;
 printf("z=",z);
 }
